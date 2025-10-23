@@ -1,0 +1,8 @@
+2025-10-23 20:20:38,694 - root - INFO - Logging system initialized.
+2025-10-23 20:20:38,694 - root - INFO - --- Trading Bot Application Started ---
+2025-10-23 20:21:12,994 - root - INFO - Bot initialized.
+2025-10-23 20:21:13,192 - root - INFO - Successfully connected to Binance Futures Testnet. Server time: 1761231076386
+2025-10-23 20:21:39,292 - root - INFO - Attempting to place MARKET buy order for 0.001 BTC
+2025-10-23 20:21:39,441 - root - ERROR - MARKET order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-23 20:31:36,366 - root - INFO - Attempting to place STOP_LIMIT sell order for 0.001 BTC at limit price 4995.0 with stop price 5000.0
+2025-10-23 20:31:36,640 - root - ERROR - STOP_LIMIT order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
